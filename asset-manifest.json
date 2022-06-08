@@ -1,26 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.12130056.css",
-    "main.js": "/static/js/main.3fd88a25.js",
+    "main.css": "/static/css/main.807622aa.css",
+    "main.js": "/static/js/main.f247daf7.js",
     "static/js/787.66b477fd.chunk.js": "/static/js/787.66b477fd.chunk.js",
-    "static/media/002549.png": "/static/media/002549.f76414e16e320cf365fa.png",
-    "static/media/Group.png": "/static/media/Group.71dd1faf984ddbf03d09.png",
-    "static/media/Saly-18.png": "/static/media/Saly-18.78a17c2bf062d69141af.png",
-    "static/media/don_h.png": "/static/media/don_h.652501c17a3fe6734793.png",
-    "static/media/untitled49@1x.png": "/static/media/untitled49@1x.b6a0e528a6486099032d.png",
-    "static/media/0021@1x.png": "/static/media/0021@1x.503b7595e944565d0c96.png",
-    "static/media/0009@1x.png": "/static/media/0009@1x.7b998401d79f5c125709.png",
-    "static/media/Group.svg": "/static/media/Group.ead7c9463deb69a680b28aadda04f704.svg",
+    "static/media/auto_25.png": "/static/media/auto_25.9777c79b24ef03238d5e.png",
+    "static/media/PAD_copyright.png": "/static/media/PAD_copyright.2315ce6899868b08b4ed.png",
+    "static/media/PAD_ve.png": "/static/media/PAD_ve.48e6ec24254cfe79dcfe.png",
     "static/media/logo_wt.svg": "/static/media/logo_wt.4f8fbfbcec096b36d0dbae1ef01d759b.svg",
     "static/media/logo8.webp": "/static/media/logo8.3b55125b7a3d79ac210f.webp",
     "static/media/logo10.webp": "/static/media/logo10.15e79bc05be4b46336ed.webp",
     "index.html": "/index.html",
-    "main.12130056.css.map": "/static/css/main.12130056.css.map",
-    "main.3fd88a25.js.map": "/static/js/main.3fd88a25.js.map",
+    "main.807622aa.css.map": "/static/css/main.807622aa.css.map",
+    "main.f247daf7.js.map": "/static/js/main.f247daf7.js.map",
     "787.66b477fd.chunk.js.map": "/static/js/787.66b477fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12130056.css",
-    "static/js/main.3fd88a25.js"
+    "static/css/main.807622aa.css",
+    "static/js/main.f247daf7.js"
   ]
 }
